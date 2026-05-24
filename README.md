@@ -22,3 +22,4 @@
 ## 图表预览
 ![销售分析](sales_analysis.png)
 ![利润分析](profitability_analysis.png)
+![Tableau Dashboard](tableau_dashboard.png)
